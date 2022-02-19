@@ -1,6 +1,11 @@
 # https://github.com/samirsaci/inventory-stochastic/blob/main/Inventory%20Management%20-%20Stochastic.ipynb
 # https://towardsdatascience.com/inventory-management-for-retail-stochastic-demand-3020a43d1c14
 
+# Inventory Management - Stochastic.ipynb
+# Continuous Review Policy: Order Point, Order Quantity Policy (s,Q)
+# Method 1: Cycle Service Level (Probability of not stock out in a cycle) = 95%
+# Method 2: Fix Item Fill Rate (IFR) = 99%
+
 
 # Other model: Considering the distribution of the demand, the objective is to build a replenishment policy that will
 # minimize your ordering, holding and shortage costs.
