@@ -15,6 +15,10 @@ This method uses only information about the description and attributes of the it
 Recent research has demonstrated that a hybrid approach, combining collaborative filtering and content-based filtering could be more effective than pure approaches in some cases. These methods can also be used to overcome some of the common problems in recommender systems such as cold start and the sparsity problem.
 
 
+We have implemented all three methods in our system and Output is taken from hybrid method.
+Giving 100:1 ratio of weight to collaborative filtering and content-based filtering.
+
+
 links:   
 
 [Dataset](https://www.kaggle.com/gspmoreira/articles-sharing-reading-from-cit-deskdrop?select=shared_articles.csv)   
